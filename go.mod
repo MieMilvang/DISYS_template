@@ -1,3 +1,3 @@
-module github.com/MieMilvang/DISYS_template.git
+module github.com/MieMilvang/DISYS_template
 
 go 1.17
